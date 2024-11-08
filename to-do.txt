@@ -1,0 +1,4 @@
+1) Final Course Grade image not placed well
+2) Download Links need blue line on hover
+3) "Home" referece to page links need a name change
+4) Consider putting final course grade with Home Page
